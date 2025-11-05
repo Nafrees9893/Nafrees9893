@@ -1,28 +1,38 @@
 <!-- ===== README.md (Profile) ===== -->
 
-<h1 align="center">Hi 👋, I'm Aarif-m-Nafrees</h1>
-<h3 align="center">Embedded  • Robotics Enthusiast 🤖</h3>
-<p align="center"><em>B.Eng.Tech (Hons) in Instrumentation & Automation — University of Colombo</em></p>
+<h1 align="center">Hi 👋, I'm Aarif M Nafrees</h1>
+<h3 align="center">Instrumentation & Automation Undergraduate • Embedded & Robotics Enthusiast 🤖</h3>
+<p align="center"><em>B.ET (Hons) in Instrumentation & Automation — University of Colombo (Aug 2023 – Jul 2027 expected)</em></p>
+<p align="center">Trincomalee, Sri Lanka</p>
 
 ---
 
-🌱 I’m currently learning <strong>ESP-IDF • FreeRTOS • ROS 2 Basics • Computer Vision for Robotics</strong><br/>
-🔧 Recent work:🚗Line-Following Robot (ATmega328P + L298N + 3× IR)</strong>
+🌱 I’m currently learning <strong>ESP-IDF • FreeRTOS • ROS 2 Basics • Computer Vision</strong><br/>
+🔧 Recent work: <strong>Advanced Robotic Transport Vehicle (ESP32, motion algorithms) — ongoing</strong> • <strong>Custom Line-Following Robotic Car (ATmega328P + IR/Ultrasonic)</strong>
 
 ---
 
+<!-- optional hero/GIF; replace or remove if not needed -->
 <p>
   <img align="right" src="assets/thanuskanth.gif" alt="Embedded & Robotics" width="420"/>
 </p>
 
 <h3>🔗 Connect with me</h3>
 <p align="left">
-  <a href="mailto:smthanu19@gmail.com" target="_blank">
+  <a href="mailto:nabrees4uni@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/thanuskanth-mahalingam-b59715386" target="_blank">
+  <a href="https://linkedin.com/in/aarif-m-nafrees-084bb732b" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://github.com/nafrees9893" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
+
+<h3>🧭 About me</h3>
+<p align="left">
+Highly motivated undergraduate with hands-on experience in embedded systems, electronics, and IoT. Skilled in microcontroller programming (Arduino, ESP32), software development (C#, Python), and no-code web design. I enjoy turning ideas into hardware + software solutions, and I’m recognized for teamwork, leadership, and continuous learning in tech-driven environments.
 </p>
 
 <h3>🤖 Robotics & AI</h3>
@@ -62,29 +72,36 @@
 
 <h3>📌 Projects</h3>
 
-- <strong>Solar Phone Charging Hub (DI)</strong> — Portable 10–20 W PV panel, MPPT buck, 2S/3S 18650 pack + BMS, 5 V/9 V USB outputs, enclosure in KiCad + 3D print; optional ESP32 telemetry (voltage, current, SOC) to web dashboard.  
-  <em>Repo:</em> <a href="https://github.com/Thanuskanth19/solar-phone-charger-tracker">Thanuskanth19/solar-phone-charging-hub</a> <!-- update if different -->
-- <strong>Line-Following Robot</strong> — ATmega328P • L298N • 3× IR array • PID tune notes.  
-  <em>Repo:</em> <a href="https://github.com/Thanuskanth19/Linefollowing-robot-and-obstacle-detection.">Thanuskanth19/Linefollowing-robot-and-obstacle-detection</a> <!-- update if different -->
-- <strong>AdvanceCalculater-CSharp-WinForms</strong> — C# . .NET WinForms . Visual Studio.  
-  <em>Repo:</em> <a href="https://github.com/Thanuskanth19/AdvanceCalculater-CSharp-WinForms">Thanuskanth19/AdvanceCalculater-CSharp-WinForms</a> <!-- update if different -->
+- <strong>Wireless Emergency Alarm System</strong> — Arduino Uno + LoRa (AT-commands), battery backup BMS for ~7-day runtime, long-range alerting; selected for University of Colombo Annual Research Symposium 2024.  
+  <em>Type:</em> IoT & Embedded Design (2023)
+
+- <strong>Custom Line-Following Robotic Car</strong> — ATmega328P (bare-metal), custom IR array + ultrasonic obstacle sensing; scratch-built, soldered control boards demonstrating full hardware workflow.  
+  <em>Type:</em> Autonomous Embedded System (2024)
+
+- <strong>Advanced Robotic Transport Vehicle</strong> — ESP32 platform + motion algorithms; concept, simulation (Proteus, SolidWorks), and wireless control architecture in progress.  
+  <em>Status:</em> Research Project (2025 – Present)
+
+- <strong>Assistive Writing Device</strong> — TPU-based ergonomic aid for differently-abled children; Make-a-thon finalist for user-centric design.  
+  <em>Event:</em> University of Kelaniya (2025)
+
+- <strong>Advanced Scientific Calculator & Unit Converter</strong> — Windows (C# WinForms, MDI) with scientific ops, unit & temperature modules, clean blue-themed UI.  
+  <em>Year:</em> 2024
+
+- <strong>Learning Management System (No-Code)</strong> — Bubble.io prototype with auth, database workflows, and responsive UI for course tracking.  
+  <em>Year:</em> 2025
+
+<p><em>Repos:</em> I’m consolidating project repos under <a href="https://github.com/nafrees9893" target="_blank">@nafrees9893</a>.</p>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanuskanth19&layout=compact&bg_color=0d1117&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Thanuskanth19&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafrees9893&layout=compact&bg_color=0d1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafrees9893&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
 </div>
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Thanuskanth19&label=Profile%20views&color=0e75b6&style=flat" alt="Thanuskanth19 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nafrees9893&label=Profile%20views&color=0e75b6&style=flat" alt="nafrees9893 profile views" />
 </p>
-
-<!-- Tips:
-1) If the repo link differs, change it above.
-2) You can drop a small system block diagram image at /assets/solar_hub_block.png and showcase it here.
-3) Ensure /logos/ icons exist or swap to CDN equivalents.
--->
