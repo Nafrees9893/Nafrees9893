@@ -7,15 +7,12 @@
 
 ---
 
-🌱 I’m currently learning <strong>ESP-IDF • FreeRTOS • ROS 2 Basics • Computer Vision</strong><br/>
+🌱 I’m currently learning <strong>ESP-IDF • FreeRTOS • ROS 2 Basics </strong><br/>
 🔧 Recent work: <strong>Advanced Robotic Transport Vehicle (ESP32, motion algorithms) — ongoing</strong> • <strong>Custom Line-Following Robotic Car (ATmega328P + IR/Ultrasonic)</strong>
 
 ---
 
-<!-- optional hero/GIF; replace or remove if not needed -->
-<p>
-  <img align="right" src="assets/thanuskanth.gif" alt="Embedded & Robotics" width="420"/>
-</p>
+
 
 <h3>🔗 Connect with me</h3>
 <p align="left">
