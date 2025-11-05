@@ -1,6 +1,6 @@
 <!-- ===== README.md (Profile) ===== -->
 
-<h1 align="center">Hi 👋, I'm Thanuskanth</h1>
+<h1 align="center">Hi 👋, I'm Aarif-m-Nafrees</h1>
 <h3 align="center">Embedded  • Robotics Enthusiast 🤖</h3>
 <p align="center"><em>B.Eng.Tech (Hons) in Instrumentation & Automation — University of Colombo</em></p>
 
