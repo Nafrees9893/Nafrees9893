@@ -44,7 +44,6 @@ Highly motivated undergraduate with hands-on experience in embedded systems, ele
 
 <h3>🧩 Embedded</h3>
 <p align="left">
-  <a href="https://docs.espressif.com/projects/esp-idf/en/latest/" target="_blank"><img src="logos/espidf.png" height="40" alt="ESP-IDF"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="logos/arduino.jpeg" height="40" alt="Arduino"/></a>
   <a href="https://www.kicad.org/" target="_blank"><img src="logos/Kicad.png" height="40" alt="KiCad"/></a>
   <a href="https://www.freertos.org/" target="_blank"><img src="logos/freeRTOS.png" height="40" alt="FreeRTOS"/></a>
