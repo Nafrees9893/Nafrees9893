@@ -47,14 +47,14 @@ Highly motivated undergraduate with hands-on experience in embedded systems, ele
   <a href="https://www.arduino.cc/" target="_blank"><img src="logos/arduini_icon.png" height="40" alt="Arduino"/></a>
   <a href="https://www.kicad.org/" target="_blank"><img src="logos/Kicad.png" height="40" alt="KiCad"/></a>
   <a href="https://www.freertos.org/" target="_blank"><img src="logos/freeRTOS.png" height="40" alt="FreeRTOS"/></a>
-  <a href="https://www.espressif.com/en/products/devkits" target="_blank"><img src="logos/freeRTOS.png" height="40" alt="ESP32"/></a>
+  <a href="https://www.espressif.com/en/products/devkits" target="_blank"><img src="logos/esp_logo.png" height="40" alt="ESP32"/></a>
 </p>
 
 <h3>🛠 Development Tools</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="logos/vscode.png" height="40" alt="VS Code"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="logos/Git_icon.png" height="40" alt="Git"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="logos/ubuntu.png" height="40" alt="Ubuntu"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="logos/ubuntu_icon.png" height="40" alt="Ubuntu"/></a>
 </p>
 
 ---
