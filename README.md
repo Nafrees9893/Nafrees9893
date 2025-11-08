@@ -34,14 +34,12 @@ Highly motivated undergraduate with hands-on experience in embedded systems, ele
   <a href="https://www.ros.org/" target="_blank"><img src="logos/ros_icon.png" height="40" alt="ROS"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40" alt="PyTorch"/></a>
 </p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib"/>
-  <a href="https://web.casadi.org/" target="_blank"><img src="logos/CasADI.png" height="40" alt="CasADi"/></a>
 </p>
 
 <h3>🧩 Embedded</h3>
