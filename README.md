@@ -44,10 +44,10 @@ Highly motivated undergraduate with hands-on experience in embedded systems, ele
 
 <h3>🧩 Embedded</h3>
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank"><img src="logos/arduino.jpeg" height="40" alt="Arduino"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="logos/arduini_icon.png" height="40" alt="Arduino"/></a>
   <a href="https://www.kicad.org/" target="_blank"><img src="logos/Kicad.png" height="40" alt="KiCad"/></a>
   <a href="https://www.freertos.org/" target="_blank"><img src="logos/freeRTOS.png" height="40" alt="FreeRTOS"/></a>
-  <a href="https://www.espressif.com/en/products/devkits" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/espressif.svg" height="40" alt="ESP32"/></a>
+  <a href="https://www.espressif.com/en/products/devkits" target="_blank"><img src="logos/freeRTOS.png" height="40" alt="ESP32"/></a>
 </p>
 
 <h3>🛠 Development Tools</h3>
@@ -55,8 +55,6 @@ Highly motivated undergraduate with hands-on experience in embedded systems, ele
   <a href="https://code.visualstudio.com/" target="_blank"><img src="logos/vscode.png" height="40" alt="VS Code"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="logos/Git_icon.png" height="40" alt="Git"/></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="logos/ubuntu.png" height="40" alt="Ubuntu"/></a>
-  <a href="https://gazebosim.org/" target="_blank"><img src="logos/Gazebo.png" height="40" alt="Gazebo"/></a>
-  <a href="https://wiki.ros.org/rviz" target="_blank"><img src="logos/Rviz.png" height="40" alt="RViz"/></a>
 </p>
 
 ---
