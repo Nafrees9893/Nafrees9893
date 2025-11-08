@@ -31,7 +31,7 @@ Highly motivated undergraduate with hands-on experience in embedded systems, ele
 
 <h3>🤖 Robotics & AI</h3>
 <p align="left">
-  <a href="https://www.ros.org/" target="_blank"><img src="logos/ros_icon.png" height="40" alt="ROS"/></a>
+  <a href="https://www.ros.org/" target="_blank"><img src="logos/freeRTOS.png" height="40" alt="ROS"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40" alt="PyTorch"/></a>
